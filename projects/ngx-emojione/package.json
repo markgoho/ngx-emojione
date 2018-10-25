@@ -1,10 +1,16 @@
 {
   "name": "ngx-emojione",
-  "version": "7.0.1",
+  "version": "7.0.3",
+  "description": "Toolkit to use EmojiOne in Angular",
   "author": {
     "name": "Mark Goho",
     "email": "markgoho@gmail.com"
   },
+  "keywords": [
+    "angular",
+    "emoji",
+    "emojione"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/markgoho/ngx-emojione"
@@ -13,8 +19,8 @@
     "url": "https://github.com/markgoho/ngx-emojione/issues"
   },
   "peerDependencies": {
-    "@angular/common": "^7.0.0",
-    "@angular/core": "^7.0.0",
+    "@angular/common": "^6.0.0 || ^7.0.0",
+    "@angular/core": "^6.0.0 || ^7.0.0",
     "emojione": "^4.0.0"
   }
 }
