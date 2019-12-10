@@ -337,10 +337,10 @@
     semver "5.5.1"
     semver-intersect "1.4.0"
 
-"@types/emojione@^2.2.3":
-  version "2.2.3"
-  resolved "https://registry.yarnpkg.com/@types/emojione/-/emojione-2.2.3.tgz#0e748ec9078c8c35d9fb3a4c7273bd14da20ee9f"
-  integrity sha512-aqWGLtjQGz7Lmketo5vOAjVoZ9B1vFISrCgVYZqzpDgwnqM0/9PxZBOL80vL/UdGDzxTtES+bconX2lCxQRaFA==
+"@types/emojione@^2.2.6":
+  version "2.2.6"
+  resolved "https://registry.yarnpkg.com/@types/emojione/-/emojione-2.2.6.tgz#467767e7c844738c60c0c1c2ce30af1d3236bc69"
+  integrity sha512-2OJGfbqLOFFawMp61cxpJ+QsLA/2LDUdqWb2YMVNP8q/FXSxdkv0hdqm3EcjNfyfcpZ0HjOjMATwXdx/xpTlOA==
 
 "@types/estree@0.0.39":
   version "0.0.39"
