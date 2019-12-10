@@ -23,7 +23,7 @@
     "core-js": "^2.5.4",
     "emojione": "^4.0.0",
     "ngx-emojione": "./dist/ngx-emojione",
-    "rxjs": "~6.3.3",
+    "rxjs": "~6.5.3",
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
